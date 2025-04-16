@@ -5,6 +5,7 @@ import "./globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
 import Navbar from "@/components/navbar"
 import Sidebar from "@/components/sidebar"
+import { Toaster } from "sonner"
 
 const inter = Inter({ subsets: ["latin"] })
 

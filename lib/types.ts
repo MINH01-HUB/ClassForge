@@ -66,3 +66,4 @@ export interface Student {
     friendshipRetention: number
     conflictReduction: number
   }
+  
